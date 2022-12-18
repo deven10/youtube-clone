@@ -1,11 +1,7 @@
 import React from 'react'
 
 const App = () => {
-  return (
-    <div>
-      <h1>Hello dev</h1>
-    </div>
-  )
+  return <div className='bg-black text-white text-3xl'>Dev</div>
 }
 
-export default App
+export default App;
